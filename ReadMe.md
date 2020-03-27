@@ -73,7 +73,7 @@ Providing application which allow to uses ontologies in order to created semanti
 
 Mantra
 -
-Information systems will be driven by always more specific ontologies and implemented upon always more generic software components ... 
+> Information systems will be driven by always more specific ontologies and implemented upon always more generic software components ...    
 ... And, at the end, the code will be the model !
 
 Icon

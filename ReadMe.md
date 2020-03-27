@@ -33,7 +33,7 @@ Initiative ID Card
             <td>N/A</td>
         </tr>
         <tr>
-            <th>Used By</th>
+            <th>Uses</th>
             <td><a href="https://github.com/iPlumb3r/KeQuarks">KeQuarks</a> (Meta-Modelization)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1682</a></td>
         </tr>
@@ -41,6 +41,16 @@ Initiative ID Card
             <th>Used By</th>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a> (Onto-Terminology)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1677</a></td>
+        </tr>
+        <tr>
+        <th>Used By</th>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">Entangled Bootstrap</a> (#DistributedWeb & #SemanticTechnologies)</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1674">#1674</a></td>
+        </tr>   
+        <tr>
+            <th>Used By</th>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMapping">EcosystemMapping</a> (Semantic Cartography of Ecosystems)</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1675">#1675</a></td>
         </tr>
         <tr>
             <th>Telegram</th>

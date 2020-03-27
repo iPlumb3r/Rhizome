@@ -44,7 +44,7 @@ Initiative ID Card
         </tr>
         <tr>
             <th>Telegram</th>
-            <td><a href="https://t.me/KeQuarks">https://t.me/Rhizome</a>Rhizome</td>
+            <td><a href="https://t.me/KeQuarks">https://t.me/Rhizome</a></td>
             <td>N/A</td>
         </tr>
         <tr>

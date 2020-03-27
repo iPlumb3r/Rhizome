@@ -34,7 +34,7 @@ Initiative ID Card
         </tr>
         <tr>
             <th>Used By</th>
-            <td><a href="https://github.com/iPlumb3r/KeQuarks">KeQuarks</a></td>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks">KeQuarks</a> (Meta-Modelization)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1682</a></td>
         </tr>
         <tr>

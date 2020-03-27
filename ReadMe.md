@@ -67,6 +67,15 @@ Initiative ID Card
 
 _Note : EBR ID allows to <a href="https://github.com/iPlumb3r/BigPicture/blob/master/HowTo/Navigate_EN.md">semantically navigate</a> in the <a href="https://www.topincs.com/EntangledBootstrap/">Topincs-powered "Entangled Bootstrap" Repository</a>_
 
+Motivation
+-
+Providing application which allow to uses ontologies in order to created semantically organized information in a fully distributed context.
+
+Mantra
+-
+Information systems will be driven by always more specific ontologies and implemented upon always more generic software components ... 
+... And, at the end, the code will be the model !
+
 Icon
 -
 ![Icon](https://github.com/iPlumb3r/Rhizome/blob/master/images/icon%40Rhizome.png)

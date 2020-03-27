@@ -15,7 +15,7 @@ Initiative ID Card
         <tr>
             <th>Name</th>
             <td>Rhizome</td>
-            <td><a href="https://www.topincs.com/EntangledBootstrap/1678">#1678</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1886">#1886</a></td>
         </tr>
         <tr>
             <th>Description</th>

@@ -24,7 +24,12 @@ Initiative ID Card
         </tr>
         <tr>
             <th>Deliverable</th>
-            <td>Distributed Knowledge Bases</td>
+            <td>An application for builing Distributed Knowledge Bases</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Tags</th>
+            <td>#DistributedWeb #OntologyDrivenApplication #KnowledgeBase</td>
             <td>N/A</td>
         </tr>
         <tr>
